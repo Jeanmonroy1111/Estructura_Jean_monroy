@@ -9,8 +9,8 @@ public class main {
             System.out.println("\n--- Menu principal---");
             System.out.println("1.Insertar cliente");
             System.out.println("2.ver lista");
-            System.out.println("salir del programa");
-            System.out.println("Digita la opcion deseada");
+            System.out.println("3.salir del programa");
+            System.out.println("Digite la opcion deseada");
             opcion = sc.nextInt();
             sc.nextLine();
             switch (opcion) {
