@@ -10,7 +10,7 @@ public class main {
             System.out.println("1.Insertar cliente");
             System.out.println("2.ver lista");
             System.out.println("3.salir del programa");
-            System.out.println("Digite la opcion deseada");
+            System.out.println("Digite la opcion deseada:");
             opcion = sc.nextInt();
             sc.nextLine();
             switch (opcion) {
