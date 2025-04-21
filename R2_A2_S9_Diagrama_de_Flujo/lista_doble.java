@@ -71,13 +71,13 @@ public void verlista(){
     }
     System.out.println("Resumen de la lista:");
     System.out.println("-Total clientes: "+contador);
-    System.out.println("-Primer clienter: "+inicio.nombre+"(Cedula: "+inicio.cedula+")");
-    System.out.println("-ultimos clienter: "+fin.nombre+"(Cedula: "+fin.cedula+")");
+    System.out.println("-Primer cliente: "+inicio.nombre+"(Cedula: "+inicio.cedula+")");
+    System.out.println("-ultimo cliente: "+fin.nombre+"(Cedula: "+fin.cedula+")");
     if (ultimorecorrido.equals("derecha")) {
         System.out.println("Mostrando lista de izquierda a derecha:");
         actual=inicio;
         while (actual!= null) {
-            System.out.println("Cedula: "+actual.cedula+",Nombre"+actual.nombre);
+            System.out.println("Cedula: "+actual.cedula+",Nombre: "+actual.nombre);
             actual=actual.siguiente;
         }
     }
@@ -85,7 +85,7 @@ public void verlista(){
         System.out.println("Mostrando lista derecha a izquierda:");
         actual=fin;
         while (actual!= null) {
-            System.out.println("Cedula: "+actual.cedula+",Nombre"+actual.nombre);
+            System.out.println("Cedula: "+actual.cedula+",Nombre: "+actual.nombre);
             actual=actual.anterior;
         }  
     }else{
