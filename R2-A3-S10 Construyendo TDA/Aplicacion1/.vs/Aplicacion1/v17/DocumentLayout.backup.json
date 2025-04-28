@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeanm\\source\\repos\\Jeanmonroy1111\\Estructura_Jean_monroy\\R2-A3-S10 Construyendo TDA\\Aplicacion1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75EBFB04-3B13-4B04-9D28-0B66697912DF}|Aplicacion\\Aplicacion.csproj|c:\\users\\jeanm\\source\\repos\\jeanmonroy1111\\estructura_jean_monroy\\r2-a3-s10 construyendo tda\\aplicacion1\\aplicacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75EBFB04-3B13-4B04-9D28-0B66697912DF}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EBFB04-3B13-4B04-9D28-0B66697912DF}|Aplicacion\\Aplicacion.csproj|c:\\users\\jeanm\\source\\repos\\jeanmonroy1111\\estructura_jean_monroy\\r2-a3-s10 construyendo tda\\aplicacion1\\aplicacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EBFB04-3B13-4B04-9D28-0B66697912DF}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EBFB04-3B13-4B04-9D28-0B66697912DF}|Aplicacion\\Aplicacion.csproj|c:\\users\\jeanm\\source\\repos\\jeanmonroy1111\\estructura_jean_monroy\\r2-a3-s10 construyendo tda\\aplicacion1\\aplicacion\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EBFB04-3B13-4B04-9D28-0B66697912DF}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\listadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EBFB04-3B13-4B04-9D28-0B66697912DF}|Aplicacion\\Aplicacion.csproj|c:\\users\\jeanm\\source\\repos\\jeanmonroy1111\\estructura_jean_monroy\\r2-a3-s10 construyendo tda\\aplicacion1\\aplicacion\\controladorlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EBFB04-3B13-4B04-9D28-0B66697912DF}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\controladorlistadoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControladorListaDoble.cs",
+              "DocumentMoniker": "C:\\Users\\Jeanm\\source\\repos\\Jeanmonroy1111\\Estructura_Jean_monroy\\R2-A3-S10 Construyendo TDA\\Aplicacion1\\Aplicacion\\ControladorListaDoble.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\ControladorListaDoble.cs",
+              "ToolTip": "C:\\Users\\Jeanm\\source\\repos\\Jeanmonroy1111\\Estructura_Jean_monroy\\R2-A3-S10 Construyendo TDA\\Aplicacion1\\Aplicacion\\ControladorListaDoble.cs",
+              "RelativeToolTip": "Aplicacion\\ControladorListaDoble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:35:52.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaDoble.cs",
+              "DocumentMoniker": "C:\\Users\\Jeanm\\source\\repos\\Jeanmonroy1111\\Estructura_Jean_monroy\\R2-A3-S10 Construyendo TDA\\Aplicacion1\\Aplicacion\\ListaDoble.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\ListaDoble.cs",
+              "ToolTip": "C:\\Users\\Jeanm\\source\\repos\\Jeanmonroy1111\\Estructura_Jean_monroy\\R2-A3-S10 Construyendo TDA\\Aplicacion1\\Aplicacion\\ListaDoble.cs",
+              "RelativeToolTip": "Aplicacion\\ListaDoble.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:35:29.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jeanm\\source\\repos\\Jeanmonroy1111\\Estructura_Jean_monroy\\R2-A3-S10 Construyendo TDA\\Aplicacion1\\Aplicacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jeanm\\source\\repos\\Jeanmonroy1111\\Estructura_Jean_monroy\\R2-A3-S10 Construyendo TDA\\Aplicacion1\\Aplicacion\\Form1.cs",
+              "RelativeToolTip": "Aplicacion\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:45:06.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jeanm\\source\\repos\\Jeanmonroy1111\\Estructura_Jean_monroy\\R2-A3-S10 Construyendo TDA\\Aplicacion1\\Aplicacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jeanm\\source\\repos\\Jeanmonroy1111\\Estructura_Jean_monroy\\R2-A3-S10 Construyendo TDA\\Aplicacion1\\Aplicacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Aplicacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T04:22:31.898Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

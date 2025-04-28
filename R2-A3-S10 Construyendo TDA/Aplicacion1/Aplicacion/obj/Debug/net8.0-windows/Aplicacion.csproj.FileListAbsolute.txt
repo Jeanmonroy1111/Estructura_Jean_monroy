@@ -1,0 +1,17 @@
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\bin\Debug\net8.0-windows\Aplicacion.exe
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\bin\Debug\net8.0-windows\Aplicacion.deps.json
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\bin\Debug\net8.0-windows\Aplicacion.runtimeconfig.json
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\bin\Debug\net8.0-windows\Aplicacion.dll
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\bin\Debug\net8.0-windows\Aplicacion.pdb
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\Aplicacion.Form1.resources
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\Aplicacion.csproj.GenerateResource.cache
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\Aplicacion.AssemblyInfo.cs
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\Aplicacion.sourcelink.json
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\Aplicacion.dll
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\refint\Aplicacion.dll
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\Aplicacion.pdb
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\Aplicacion.genruntimeconfig.cache
+C:\Users\Jeanm\source\repos\Jeanmonroy1111\Estructura_Jean_monroy\R2-A3-S10 Construyendo TDA\Aplicacion1\Aplicacion\obj\Debug\net8.0-windows\ref\Aplicacion.dll
